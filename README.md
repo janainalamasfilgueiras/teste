@@ -36,8 +36,8 @@ Link para uma apresentação do Google Slides:
 
 Ou usando uma imagem de capa como link:
 
-[![Abrir apresentação](imagens/capa-apresentacao.png)](https://docs.google.com/presentation/d/1bM0QpCkDgL1aZQKQpG4VvR5yR6VwF1y6dY6UQpRlQn8E)
-
+[![Abrir apresentação](imagens/capa-apresentacao.png)](https://docs.google.com/presentation/d/1z6Td7_rsQizTPBUK43gmDRSdjQJK1CbG/edit#slide=id.p1)
+[![Capa do Dashboard](imagens/capa-dashboard.png)](https://lookerstudio.google.com/u/0/reporting/912b2d9e-0a46-4917-ba7b-b8b036896102/page/IkdGF))
 ---
 
 ## ✨ Dicas
